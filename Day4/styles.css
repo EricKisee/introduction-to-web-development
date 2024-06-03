@@ -1,0 +1,18 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    color: green;
+  }
+  
+  .intro {
+    font-size: 20px;
+    color: blue;
+  }
+  
+  p {
+    line-height: 1.6;
+  }
+  
